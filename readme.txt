@@ -6,3 +6,4 @@ My stupid boss still prefers SVN
 Creating a new branch is quick AND simple 
 merg
 There has a bug need handle
+a bug
